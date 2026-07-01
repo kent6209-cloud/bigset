@@ -1,8 +1,15 @@
 wms-server.exe
 wms-server
 *.mbtiles
+*.pmtiles
 *.shp
 *.shx
 *.dbf
 *.prj
+*.ecw
+*.vrt
 data/
+test_*.png
+go*.windows-amd64.msi
+wms-server.exe~
+readme.txt
