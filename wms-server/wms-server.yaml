@@ -8,3 +8,11 @@ layers:
     type: "mbtiles"
     path: "D:/利美/內政部無人機反制案/wms-server/Map/TaiwanEMap6.mbtiles"
     crs: "EPSG:4326"
+
+  # PMTiles 範例 (若已轉換)
+  # - name: "satellite-pmtiles"
+  #   title: "台灣電子地圖 (PMTiles)"
+  #   abstract: "高效 PMTiles 格式衛星影像"
+  #   type: "pmtiles"
+  #   path: "D:/data/taiwan50cm.pmtiles"
+  #   crs: "EPSG:4326"
