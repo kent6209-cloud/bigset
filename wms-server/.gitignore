@@ -1,0 +1,8 @@
+wms-server.exe
+wms-server
+*.mbtiles
+*.shp
+*.shx
+*.dbf
+*.prj
+data/

@@ -1,0 +1,10 @@
+server:
+  listen: ":8080"
+
+layers:
+  - name: "satellite"
+    title: "台灣電子地圖"
+    abstract: "台灣電子地圖 (MBTiles)"
+    type: "mbtiles"
+    path: "D:/利美/內政部無人機反制案/wms-server/Map/TaiwanEMap6.mbtiles"
+    crs: "EPSG:4326"
